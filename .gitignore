@@ -1,0 +1,16 @@
+# Excluir archivos PDF
+*.pdf
+
+# Excluir archivos HTML
+*.html
+
+# Archivos del sistema (opcional)
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
